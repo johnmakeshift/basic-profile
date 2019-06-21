@@ -1,0 +1,14 @@
+aside {
+  float: left;
+}
+
+main {
+  float: left;
+}
+.containerLowerHalf: hover{
+    float: inherit
+    
+}
+footer {
+  clear: both;
+}
