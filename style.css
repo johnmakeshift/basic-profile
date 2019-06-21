@@ -1,16 +1,5 @@
-  box-sizing: border-box;
-}
 
-/* 
-.containerUpperHalf {
-    position: relative;
-  margin: 0 auto;
-  margin-top: 500px;
-  width: 1 px;
-  color: white;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 1.25em;
-}
+
 header {
    color:antiquewhite;
     font-family: fantasy;
@@ -37,14 +26,7 @@ main {
   padding: 10px;
   border: 1px solid black;
 }
-.containerlowerHalf {
-    
-  margin: 0 auto;
-  margin-top: 500px;
-  width: 1 px;
-  color: white;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 1.25em;
+
 }
 
 footer    {color:antiquewhite;
@@ -54,4 +36,4 @@ footer    {color:antiquewhite;
     width:100;
   padding: 10px;
     border: 10px solid #335b63;
-} */
+} 
