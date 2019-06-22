@@ -1,1 +1,64 @@
+.container{
+    margin:10px;
+    width: 900px;
+    height: 100px;
+    color:burlywood;
+    background: black;
+padding: 20px;
+}
+.nav{
+    margin-top:10px;
+    margin:10px;
+    width: 900px;
+    height: 100px;
+    color:burlywood;
+    background: blue;
+padding:20px;
+    
+}
+.background{
+    
+    margin:50px;
+    background:grey;
+    width:960px;
+    height:auto;
+    
+}
+.section{
+    margin:10px;
+    height:200px;
+    background: red;
+    color:burlywood;
+    width: 300px;
+    border: 1px;
+    border-color:red;
+}
 
+.aside{
+
+    
+    width: 600px;
+    height:200px;
+    background: green;
+    color:burlywood;
+    
+    
+
+}
+.list{
+     margin-top:10px;
+    background:yellow;
+    padding:10px;
+    margin:10px;
+    color:black;
+}
+.footer{
+    margin:10px;
+   width: 900px;
+    height: 100px;
+    color:burlywood;
+    background: black;
+padding:20px; 
+    
+    
+}
